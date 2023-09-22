@@ -1,6 +1,6 @@
 {
-    "name": "@vespaiach/axios-fetch-adapter",
-    "version": "0.3.1",
+    "name": "@ahushh/axios-fetch-adapter",
+    "version": "0.3.2",
     "description": "Fetch adapter for axios",
     "main": "index.js",
     "module": "index.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vespaiach/axios-fetch-adapter.git"
+        "url": "git+https://github.com/ahushh/axios-fetch-adapter.git"
     },
     "keywords": [
         "axios",
@@ -22,15 +22,15 @@
     "author": "nta.toan@gmail.com",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/vespaiach/axios-fetch-adapter/issues"
+        "url": "https://github.com/ahushh/axios-fetch-adapter/issues"
     },
-    "homepage": "https://github.com/vespaiach/axios-fetch-adapter#readme",
+    "homepage": "https://github.com/ahushh/axios-fetch-adapter#readme",
     "devDependencies": {
-        "axios": "^0.27.2",
+        "axios": "^1.4.0",
         "np": "^7.6.1",
         "vite": "^2.8.0"
     },
     "peerDependencies": {
-        "axios": ">=0.26.0"
+        "axios": ">=1.4.0"
     }
 }
